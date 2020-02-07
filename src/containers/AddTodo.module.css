@@ -1,0 +1,24 @@
+.input{
+    width: 300px;
+    height: 17px;
+    padding: 2px;
+}
+
+.btn{
+    width: 75px;
+    height: 25px;
+    font-size: 14px;
+    background-color: #311c1a;
+    color: #e1d5ca;
+    border: none;
+    margin-right: 10px;
+}
+.btn:hover{
+    background-color: #e1d5ca;
+    color: #311c1a;
+}
+.btn:disabled{
+    background-color: #e3936e;
+    color: #311c1a;
+
+}
